@@ -1,3 +1,7 @@
+Project OVERVIEW:
+<img width="1341" height="598" alt="image" src="https://github.com/user-attachments/assets/8eaa353f-f31f-42fc-9860-cbe1bd8b89c2" />
+With the Help of OWN API you can go thought it
+
 # How to run this project :
 
 - First create a google studio (studio.google.com) API Key then paste in .env file like this : GEMINI_API_KEY=AIzaSyDzpbXoHkeTpPy2Wvi5GyUmC1pIE0Dsc68 .
